@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "main": {
+      "name": "Main",
+      "port": 80,
+      "viewdir": "view",
+      "viewfile": "index.html"
+    }
+  }
+}
