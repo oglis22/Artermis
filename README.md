@@ -7,7 +7,7 @@
 - [@oglis22](https://www.github.com/oglis22)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/oglis22/Artermis/assets/119761510/592bd4dc-b416-4519-8b21-0561b8b9d57c)
 
 
 ## Installation
@@ -26,4 +26,8 @@ Template Web Server (config.json)
     }
 }
 ```
-    
+
+
+![browser](https://github.com/oglis22/Artermis/assets/119761510/0caecb4e-fbdf-4323-bc6f-bda11ad0c79c)
+
+![console](https://github.com/oglis22/Artermis/assets/119761510/c8843f6d-424b-4ae8-8ae0-2b9fcfa25595)
